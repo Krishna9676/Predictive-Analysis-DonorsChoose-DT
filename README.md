@@ -71,7 +71,7 @@ pip install scikit-learn nltk pandas vaderSentiment prettytable
 
 
 Run the notebook
-jupyter notebook donors_Assignment_DT_ass_2022.ipynb
+jupyter notebook donors_Assignment_DT.ipynb
 
 
 
