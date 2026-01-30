@@ -1,5 +1,4 @@
-Your write‑up is already strong — it just needs clean Markdown formatting so it drops directly into a GitHub README and renders beautifully. Below is a polished, GitHub‑ready version of your entire section, including a properly formatted performance table.
-You can paste this directly into your README.md file.
+
 
 # DonorsChoose Funding Prediction using Decision Trees and NLP
 
