@@ -42,7 +42,6 @@ The model was evaluated using the **ROC‑AUC score**.
 |-------------------------|-----------|-------------------|----------|
 | TF‑IDF                  | 10        | 500               | 0.6140   |
 | TF‑IDF Weighted W2V     | 5         | 100               | 0.6215   |
-| Feature Importance      | 10        | 500               | 0.6028   |
 
 ---
 
